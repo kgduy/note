@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "title": "Mua sắm",
+    "content": "Mua sữa, trứng và bánh mì",
+    "priority": 2,
+    "createdAt": "2025-04-17T04:00:00.000Z",
+    "modifiedAt": "2025-04-17T04:00:00.000Z",
+    "tags": ["gia đình", "việc vặt"],
+    "color": "#FFFFFF",
+    "imagePath": assets/images/1.jpg
+  },
+  {
+    "id": 2,
+    "title": "Làm việc",
+    "content": "Hoàn thành báo cáo hàng quý",
+    "priority": 3,
+    "createdAt": "2025-04-16T04:00:00.000Z",
+    "modifiedAt": "2025-04-17T03:00:00.000Z",
+    "tags": ["công việc", "báo cáo"],
+    "color": "#F0F8FF",
+    "imagePath": null
+  },
+    {
+    "id": 3,
+    "title": "Tập thể dục",
+    "content": "Đi bộ 30 phút",
+    "priority": 1,
+    "createdAt": "2025-04-15T04:00:00.000Z",
+    "modifiedAt": "2025-04-15T04:00:00.000Z",
+    "tags": ["sức khỏe", "thể thao"],
+    "color": "#FAEBD7",
+    "imagePath": null
+  },
+  {
+    "id": 4,
+    "title": "Đọc sách",
+    "content": "Đọc chương 5 của 'Nhà giả kim'",
+    "priority": 2,
+    "createdAt": "2025-04-14T04:00:00.000Z",
+    "modifiedAt": "2025-04-14T04:00:00.000Z",
+    "tags": ["giải trí", "sách"],
+    "color": "#00FFFF",
+    "imagePath": null
+  },
+   {
+    "id": 5,
+    "title": "Học Flutter",
+    "content": "Xem video về State Management",
+    "priority": 3,
+    "createdAt": "2025-04-13T04:00:00.000Z",
+    "modifiedAt": "2025-04-17T02:00:00.000Z",
+    "tags": ["học tập", "công nghệ"],
+    "color": "#8A2BE2",
+    "imagePath": null
+  },
+  {
+    "id": 6,
+    "title": "Nấu ăn",
+    "content": "Thử công thức mì Ý mới",
+    "priority": 2,
+    "createdAt": "2025-04-12T04:00:00.000Z",
+    "modifiedAt": "2025-04-12T04:00:00.000Z",
+    "tags": ["gia đình", "nấu ăn"],
+    "color": "#A52A2A",
+    "imagePath": null
+  },
+   {
+    "id": 7,
+    "title": "Xem phim",
+    "content": "Xem tập mới nhất của series",
+    "priority": 1,
+    "createdAt": "2025-04-11T04:00:00.000Z",
+    "modifiedAt": "2025-04-11T04:00:00.000Z",
+    "tags": ["giải trí", "phim"],
+    "color": "#DEB887",
+    "imagePath": null
+  },
+  {
+    "id": 8,
+    "title": "Gọi điện",
+    "content": "Gọi cho mẹ",
+    "priority": 2,
+     "createdAt": "2025-04-10T04:00:00.000Z",
+    "modifiedAt": "2025-04-10T04:00:00.000Z",
+    "tags": ["gia đình"],
+    "color": "#5F9EA0",
+    "imagePath": null
+  },
+   {
+    "id": 9,
+    "title": "Đi chơi",
+    "content": "Đi dạo công viên",
+    "priority": 1,
+    "createdAt": "2025-04-09T04:00:00.000Z",
+    "modifiedAt": "2025-04-09T04:00:00.000Z",
+    "tags": ["giải trí", "ngoài trời"],
+    "color": "#D2691E",
+    "imagePath": null
+  },
+  {
+    "id": 10,
+    "title": "Viết lách",
+    "content": "Viết bài blog",
+    "priority": 3,
+    "createdAt": "2025-04-08T04:00:00.000Z",
+    "modifiedAt": "2025-04-17T01:00:00.000Z",
+    "tags": ["công việc", "viết lách"],
+    "color": "#6495ED",
+    "imagePath": null
+  }
+]
